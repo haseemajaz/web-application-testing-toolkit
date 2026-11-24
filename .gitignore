@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+out/
+output/
+report.html
+report.json
+report.md
+*.egg-info/
